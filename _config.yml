@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Jason Carter
 locale:           en_US
 url:              
 
@@ -25,13 +25,14 @@ kramdown:
 
 
 # Site owner
+
 owner:
-  name: Your Name
+  name: Jason Carter
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
+  email: jason.ian.carter@gmail.com
   disqus-shortname: 
-  twitter: #username
+  twitter: jasonicarter
   facebook: #username
   google:
     plus: #username
@@ -40,9 +41,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: jasonicarter
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jasonicarter
   instagram: #username
   lastfm: #username
   tumblr: #username
