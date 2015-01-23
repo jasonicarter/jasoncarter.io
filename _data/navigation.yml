@@ -5,6 +5,9 @@
 
 - title: All Posts
   url: /posts/
+  
+- title: New Home
+  url: /new-home/
 
 - title: Theme Setup
   url: /theme-setup/
