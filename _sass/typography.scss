@@ -17,6 +17,7 @@ h2 {
 }
 h3 {
 	@include font-size(24);
+    font-weight: $heading-font-weight;
 }
 h4 {
 	@include font-size(18);

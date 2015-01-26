@@ -11,14 +11,12 @@
 
 {% include _browser-upgrade.html %}
 
-{% include _navigation.html %}
-
 <div id="main" role="main"> 
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+    <h3><a href="{{ site.url }}/posts/"><i class="fa fa-book"></i> All Posts</a> | <a href="{{ site.url }}/{{ site.groups.categories-path }}"><i class="fa fa-folder"></i> Categories</a> | <a href="{{ site.url }}/{{ site.groups.tags-path }}"><i class="fa fa-tags"></i> Tags</a> | <a href="{{ site.url }}/{{ site.groups.more-path }}"><i class="fa fa-plus-square"></i> More</a></h3>
     {% for post in site.posts limit:5 %}    
     <article>
       {% if post.link %}
@@ -31,12 +29,6 @@
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
   

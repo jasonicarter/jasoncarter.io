@@ -42,6 +42,102 @@ body {
 	}
 }
 
+/* Top navaigation drop-down menu */
+.nav-menu-dropdown {
+	position: relative;
+}
+.nav-menu-dropdown ul {
+	margin: 0;
+	padding: 0;
+}
+.nav-menu-dropdown li {
+	margin: 0 5px 10px 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+}
+.nav-menu-dropdown a {
+	padding: 3px 12px;
+	text-decoration: none;
+	color: #999;
+	line-height: 100%;
+}
+.nav-menu-dropdown a:hover {
+	color: #000;
+}
+.nav-menu-dropdown .current a {
+	background: #999;
+	color: #fff;
+	border-radius: 5px;
+}
+
+/* right nav */
+.nav-menu-dropdown.right ul {
+	text-align: right;
+}
+
+/* center nav */
+.nav-menu-dropdown.center ul {
+	text-align: center;
+}
+
+.nav-menu-dropdown {
+		position: relative;
+		min-height: 40px;
+        float: left;
+	}	
+	.nav-menu-dropdown ul {
+		width: 180px;
+		padding: 5px 0;
+		position: absolute;
+		top: 0;
+		left: 0;
+		border: solid 1px #aaa;
+		background: #fff url(images/icon-menu.png) no-repeat 10px 11px;
+		border-radius: 5px;
+		box-shadow: 0 1px 2px rgba(0,0,0,.3);
+	}
+	.nav-menu-dropdown li {
+		display: none; /* hide all <li> items */
+		margin: 0;
+	}
+	.nav-menu-dropdown .current {
+		display: block; /* show only current <li> item */
+	}
+	.nav-menu-dropdown a {
+		display: block;
+		padding: 5px 5px 5px 32px;
+		text-align: left;
+	}
+	.nav-menu-dropdown .current a {
+		background: none;
+		color: #666;
+	}
+
+	/* on nav hover */
+	.nav-menu-dropdown ul:hover {
+		background-image: none;
+	}
+	.nav-menu-dropdown ul:hover li {
+		display: block;
+		margin: 0 0 5px;
+	}
+	.nav-menu-dropdown ul:hover .current {
+		background: url(images/icon-check.png) no-repeat 10px 7px;
+	}
+
+	/* right nav */
+	.nav-menu-dropdown.right ul {
+		left: auto;
+		right: 0;
+	}
+
+	/* center nav */
+	.nav-menu-dropdown.center ul {
+		left: 50%;
+		margin-left: -90px;
+	}
+
 /* Top navigation links */
 .top-navigation {
 	@include grid(12,10);
@@ -52,7 +148,7 @@ body {
 	display: block;
 	@media #{$small} {
 		@include grid(12,9);
-		@include prefix(12,0);
+		@include prefix(12,3);
 		@include suffix(12,0);
 	}
 	@media #{$x-large} {
@@ -222,7 +318,7 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
-	margin-top: 2em;
+	margin-top: $main-margin-top;
 	h1 {
 		margin-top: 0;
 	}
@@ -343,7 +439,7 @@ $button-size: 1.5rem;
 	}
 	p {
 		font-size: 80%;
-		font-style: italic;
+//		font-style: italic;
 	}
 	a, a:hover {
 		border-bottom: 0 solid transparent;
@@ -379,12 +475,11 @@ $button-size: 1.5rem;
 	}
 	@media #{$small} {
 		display: block;
+        text-align: right;
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
-		h3,
-		p,
-		.author-social {
+		h3 {
 			display: block;
 			max-width: 125px;
 		}
@@ -401,9 +496,7 @@ $button-size: 1.5rem;
 	}
 	@media #{$large} {
 		h3,
-		.bio-photo,
-		p,
-		.author-social {
+		.bio-photo {
 			max-width: 150px;
 		}
 	}
@@ -431,9 +524,7 @@ $button-size: 1.5rem;
 	}
 	@media #{$large} {
 		h3,
-		.bio-photo,
-		p,
-		.author-social {
+		.bio-photo {
 			max-width: 150px;
 		}
 	}

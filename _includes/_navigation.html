@@ -1,7 +1,5 @@
 <div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="{{ site.url }}/">{{ site.title }}</a>
-	</div><!-- /.site-name -->
+    {% if page.title %}
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
@@ -15,5 +13,6 @@
 				{% endfor %}
 		    </ul>
 		</nav>
-	</div><!-- /.top-navigation -->
+	</div><!-- /.top-navigation --> 
+    {% endif %}
 </div><!-- /.navigation-wrapper -->
