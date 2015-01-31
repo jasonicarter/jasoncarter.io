@@ -321,6 +321,8 @@ $button-size: 1.5rem;
 	margin-top: $main-margin-top;
 	h1 {
 		margin-top: 0;
+        padding-bottom: .5em;
+        border-bottom: 1px solid lighten($black,70);
 	}
 	.post,
 	.page {
@@ -450,28 +452,21 @@ $button-size: 1.5rem;
 }
 
 /* Default social media links in author sidebar */
-.author-social {
-  display: block;
-  margin-bottom: 5px;
-  @include font-rem(14);
-  color: $black;
+.author-social, .navigation-side {
+  @include font-rem(20);
+  margin-left: 5px;
   &:visited {
     color: $black;
   }
-  &:hover {
-    @include scale(1.1);
-  }
-  &:active {
-    @include translate(0, 2px);
-  }
-  .fa {
-		margin-right: 5px;
-	}
 }
 
 /* Author sidebar */
 .article-author-side {
 	display: none;
+    .bio-intro {
+      @include font-rem(18);
+      color: $black;
+    }
 	.bio-photo {
 		max-width: 110px;
 		@include rounded(150px);
@@ -522,7 +517,7 @@ $button-size: 1.5rem;
 		@include rounded(150px);
 	}
 	.author-social {
-		display: inline-block;
+//		display: inline-block;
 		margin-right: 10px;
 	}
 	@media #{$large} {

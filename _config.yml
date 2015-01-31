@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Jason Carter
   avatar: 
-  bio: "Hello. I'm Jason, the owner of this online establishment. I like a bunch of things but to learn more about me <a href='#'>click here</a>"
+  bio: "<span class='bio-intro'>Hello.</span> I'm Jason, the owner of this online establishment. I like a bunch of things but to learn more about me <a href='#'>click here</a>"
   email: jason.ian.carter@gmail.com
   gravator_email_md5: 0afde15e66033cfc608c73a2b386a50d
   disqus-shortname: 
@@ -42,7 +42,7 @@ owner:
     ad-slot: 
   github: jasonicarter
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: jasonicarter
+  linkedin: jasoniancarter
   instagram: #username
 
 # Group pages
@@ -50,6 +50,7 @@ owner:
 groups:
   categories-path: categories
   tags-path: tags
+  about-path: about
 
 # Compilation stuff
 

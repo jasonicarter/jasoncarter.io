@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A personal website and blog on Sitecore, digital marketing and web analytics"
+tags: [Jekyll, Sitecore, digital marketing, blog, analytics]
 ---
