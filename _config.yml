@@ -51,6 +51,7 @@ groups:
   categories-path: categories
   tags-path: tags
   about-path: about
+  more-path: more
 
 # Compilation stuff
 
