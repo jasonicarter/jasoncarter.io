@@ -6,11 +6,8 @@ permalink: /switching-databases-on-sitecore-desktop/
 dsq_thread_id:
   - 2942009499
   - 2942009499
-categories:
-  - sitecore
-  - tutorial
-tags:
-  - beginners
+categories: [digital marketing]
+tags: [beginners, sitecore]
 ---
 Core or Master? Or is this the Web database? Switching databases on Sitecore Desktop can be a little tricky for the newbie. If you’ve read through all of the <a title="Sitecore sdn" href="https://sdn.sitecore.net" target="_blank">Sitecore sdn documentation</a> you would have stumbled upon this one at some point. But if like me, you jumped into Sitecore, skimmed (and that&#8217;s being generous) the docs and possibly missed that, &#8220;oh by the way&#8221;, moment from the trainer during your <a title="Sitecore Training and Certification Exam" href="http://jsoncarter.com/sitecore-training-and-certification-exam/" target="_blank">certification</a> course, then this little but useful tip will be a great addition to your tool kit.
 

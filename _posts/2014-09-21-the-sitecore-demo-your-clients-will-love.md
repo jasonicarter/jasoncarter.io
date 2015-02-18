@@ -1,12 +1,10 @@
 ---
 title: The Sitecore Demo Your Clients Will Love
-author: Jason
 layout: post
 permalink: /the-sitecore-demo-your-clients-will-love/
-categories:
-  - sitecore
-tags:
-  - demo
+categories: [digital marketing]
+tags: [sitecore, presentation, demo]
+comments: true
 ---
 As a Sitecore developer, I work fairly close with clients on an ongoing basis, whether it&#8217;s clarifying a requirement or understanding an issue in order to fix it. Working with clients is not always an easy thing, impressing them is even harder. But there&#8217;s on thing that every (business) client loves and that&#8217;s almost anything visual (excuse the irony of my site lacking just that).
 

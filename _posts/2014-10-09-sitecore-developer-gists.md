@@ -3,11 +3,8 @@ title: Sitecore Developer Gists
 author: Jason
 layout: post
 permalink: /sitecore-developer-gists/
-categories:
-  - sitecore
-tags:
-  - gist
-  - github
+categories: [digital marketing]
+tags: [gist, github, sitecore]
 ---
 Working as a Sitecore developer you come across interesting, cool, ah ha and doh! moments all the time. And it&#8217;s because of this that I&#8217;ve decided to keep a list of my Sitecore developer gists and slap them online. 
 

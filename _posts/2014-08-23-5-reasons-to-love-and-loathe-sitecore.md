@@ -6,8 +6,8 @@ permalink: /5-reasons-to-love-and-loathe-sitecore/
 dsq_thread_id:
   - 2952443812
   - 2952443812
-categories:
-  - sitecore
+categories: [digital marketing]
+tags: [sitecore]
 ---
 Only 5 reasons to *love and loathe* Sitecore may seem a bit extreme and it is. But in my first month of development I&#8217;ve learned some things about Sitecore. 1) It&#8217;s a great .NET CMS product and 2) I have reasons to love and loathe Sitecore. Here are my top 5&#8230;  
 </br>

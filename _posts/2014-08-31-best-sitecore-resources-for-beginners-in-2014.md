@@ -1,15 +1,13 @@
 ---
 title: Best Sitecore Resources for Beginners in 2014
-author: Jason
 layout: post
 permalink: /best-sitecore-resources-for-beginners-in-2014/
 dsq_thread_id:
   - 2975566694
   - 2975566694
-categories:
-  - sitecore
-tags:
-  - beginners
+categories: [digital marketing]
+tags: [beginners, sitecore]
+comments: true
 ---
 There&#8217;s little doubt Sitecore needs more developers blogging and writing great informative articles about their products, development and just general opinions. But that&#8217;s not to say there aren&#8217;t some amazing and helpful bloggers out there already. So with that said, this is my list of the best Sitecore resources for beginners in 2014.  
 <!--more-->

@@ -1,14 +1,10 @@
 ---
 title: Passing the Google Analytics Exam GAIQ 2015
-author: Jason
 layout: post
 permalink: /passing-google-analytics-exam-gaiq-2015/
-categories:
-  - digital marketing
-tags:
-  - analytics
-  - GAIQ
-  - Google Analytics
+categories: [digital marketing]
+tags: [analytics, google analytics, GAIQ]
+comments: true
 ---
 As I type, I&#8217;m literally still coming off my high from passing the Google Analytics exam GAIQ 2015, a few hours ago. But instead of going out partying and celebrating my new found GA knowledge I decided to come here and write it all down for you while it&#8217;s still fresh.
 

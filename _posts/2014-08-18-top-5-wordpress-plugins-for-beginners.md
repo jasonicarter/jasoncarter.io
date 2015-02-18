@@ -6,12 +6,8 @@ permalink: /top-5-wordpress-plugins-for-beginners/
 dsq_thread_id:
   - 2939133492
   - 2939133492
-categories:
-  - wordpress
-tags:
-  - beginners
-  - plugin
-  - wordpress
+categories: [tutorial]
+tags: [beginners, plugin, wordpress]
 ---
 Your WordPress site is up and running but you still think something&#8217;s missing. Well, you&#8217;re right! For those who don&#8217;t know, <a title="WordPress plugins" href="https://wordpress.org/plugins/" target="_blank">WordPress plugins</a> add extra functionality to your blog and is probably the number one feature that makes WordPress so amazing. But with over 32k plugins as of August 2014, which ones are the best? But more importantly, which ones are the Top 5 WordPress Plugins for beginners?
 

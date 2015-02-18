@@ -1,16 +1,13 @@
 ---
 title: 'Customizing Sitecore&#8217;s Page Editor Ribbon'
-author: Jason
 layout: post
 permalink: /customizing-sitecores-page-editor-ribbon/
 dsq_thread_id:
   - 2965350348
   - 2965350348
-categories:
-  - sitecore
-tags:
-  - beginners
-  - page editor
+categories: [digital marketing]
+tags: [beginners, page editor, sitecore]
+comments: true
 ---
 Recently, I&#8217;ve been working with a client who requested access to the page&#8217;s meta data from the Page Editor (basically any data that wasn&#8217;t displayed to the user on the front-end but still very essential to the use and functionality of the page). Customizing Sitecore&#8217;s Page Editor ribbon to provide access to data via the Page Editor is actually quite a straight forward task once you know where everything is and you understand the Sitecore terminology for things. So lets get started&#8230;  
 <!--more-->

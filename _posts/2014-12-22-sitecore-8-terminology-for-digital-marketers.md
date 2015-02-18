@@ -1,14 +1,10 @@
 ---
 title: Sitecore 8 terminology for digital marketers
-author: Jason
 layout: post
 permalink: /sitecore-8-terminology-for-digital-marketers/
-categories:
-  - digital marketing
-  - sitecore
-tags:
-  - terminology
-  - terms
+categories: [digital marketing]
+tags: [terminology, terms, sitecore, sitecore 8]
+comments: true
 ---
 If you&#8217;re a marketer and your website is powered by Sitecore, at some point you&#8217;ll interact directly or indirectly with the platform itself. This may be as a content editor or copy writer. With that experience you&#8217;ll know Sitecore is full of &#8220;new&#8221; terms even if you&#8217;ve worked with other CMS systems before such as WordPress. And whether it&#8217;s Content Editor, Sublayout, Page Editor, Ribbon or Standard Values, we can all agree that it&#8217;s a little tricky to remember and understand everything that&#8217;s going on with the terminology of Sitecore.
 

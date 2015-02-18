@@ -1,29 +1,13 @@
 ---
 title: 5 Easy Steps to Starting a WordPress Blog
-author: Jason
 layout: post
 permalink: /5-steps-to-starting-a-wordpress-blog/
 dsq_thread_id:
   - 2933317625
   - 2933317625
-fsb_social_linkedin:
-  - 0
-  - 0
-fsb_social_twitter:
-  - 0
-  - 0
-fsb_social_facebook:
-  - 0
-  - 0
-fsb_social_google:
-  - 0
-  - 0
-categories:
-  - tutorial
-tags:
-  - beginners
-  - blog
-  - wordpress
+categories: [tutorial]
+tags: [beginners, blog, wordpress]
+comments: true
 ---
 So you want to start a WordPress blog but you don&#8217;t know where to begin. Well, you&#8217;re in luck! Upon starting this blog I decided to document my little journey in the hopes of keeping a personal record but also giving back and helping out those going through the same thing.
 

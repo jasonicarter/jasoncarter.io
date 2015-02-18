@@ -1,16 +1,13 @@
 ---
 title: Lonely Not Being in Vegas This Sitecore Symposium Week?
-author: Jason
 layout: post
 permalink: /sitecore-symposium-2014/
 dsq_thread_id:
   - 3006926696
   - 3006926696
-categories:
-  - sitecore
-tags:
-  - sitecore
-  - symposium
+categories: [digital marketing]
+tags: [sitecore, symposium]
+comments: true
 ---
 Are you lonely not being in Vegas this Sitecore Symposium week? **Picture this**: You&#8217;re a Sitecore developer and all this week you&#8217;re somewhere other than Vegas. Yup! That&#8217;s right, you&#8217;re missing out on <a title="Sitecore Symposium" href="http://www.sitecore.net/symposiumna2014" target="_blank">Sitecore Symposium 2014</a>, the &#8220;Experience&#8221; symposium.  
 <!--more-->

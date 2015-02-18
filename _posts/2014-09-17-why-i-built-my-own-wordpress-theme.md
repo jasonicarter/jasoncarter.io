@@ -1,14 +1,10 @@
 ---
 title: Why I Built My Own WordPress Theme
-author: Jason
 layout: post
 permalink: /why-i-built-my-own-wordpress-theme/
-categories:
-  - wordpress
-tags:
-  - roots.io
-  - themes
-  - underscores
+categories: [tutorial]
+tags: [roots.io, theme, underscores]
+comments: true
 ---
 Deciding to write a WordPress theme seems like a pretty straight forward decision, so answering &#8220;why I built my own WordPress theme&#8221; would seem obvious, but this is actually a more complicated question than it sounds. I&#8217;ve worked with WordPress in one way or another since around 2006. During this time I&#8217;ve been a freelancer (and full-time) developer working with many technologies &#8211; ActionScript was my first website gig&#8230;an all Flash website, do those even exist anymore??? 
 

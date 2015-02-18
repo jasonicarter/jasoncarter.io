@@ -1,13 +1,10 @@
 ---
 title: WordsPlus now on Github
-author: Jason
 layout: post
 permalink: /wordsplus-for-blackberry-10-now-on-github/
-categories:
-  - projects
-tags:
-  - github
-  - wordsplus
+categories: [projects]
+tags: [github, wordsplus]
+comments: true
 ---
 &#8220;WordsPlus for BlackBerry 10 is possibly the most fun, most charming and most connected word search game for BlackBerry&#8221;
 

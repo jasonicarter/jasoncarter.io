@@ -1,13 +1,10 @@
 ---
 title: Digital Marketing Trends NOT Happening in 2015
-author: Jason
 layout: post
 permalink: /digital-marketing-trends-not-happening-2015/
-categories:
-  - digital marketing
-tags:
-  - analytics
-  - digital marketing
+categories: [digital marketing]
+tags: [analytics, marketing, trends]
+comments: true
 ---
 Here comes the predictions&#8230;Everyone who&#8217;s anyone in the digital marketing world is putting out predictions on trends to expect in 2015. And although I definitely agree with some of those predictions &#8211; ** content continues to rule, video ads are more and better integrated everywhere and big data gets even bigger and smarter** &#8211; but I&#8217;ve also seen some down-right ridiculous ones.
 

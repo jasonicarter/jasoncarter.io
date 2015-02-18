@@ -1,16 +1,10 @@
 ---
 title: Top 8 Sitecore 8 Resources
-author: Jason
 layout: post
 permalink: /top-8-sitecore-8-resources/
-categories:
-  - digital marketing
-  - sitecore
-tags:
-  - analytics
-  - digital marketing
-  - sitecore
-  - sitecore 8
+categories: [digital marketing]
+tags: [sitecore, sitecore 8, analytics]
+comments: true
 ---
 It&#8217;s here! Sitecore 8 has finally <a title="Sitecore 8" href="https://www.sitecore.net/Platform/Sitecore-8.aspx" target="_blank">arrived</a>. And if you&#8217;re anything like me, you&#8217;re excited about what it has to offer since Sitecore 8 is packed full of fixes, improvements and new features but probably the biggest (and arguably the best) difference in Sitecore 8 compared to earlier iterations is its focus on marketing and analytics.
 

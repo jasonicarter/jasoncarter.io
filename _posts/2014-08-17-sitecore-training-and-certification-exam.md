@@ -1,18 +1,13 @@
 ---
 title: Sitecore Training and Certification Exam
-author: Jason
 layout: post
 permalink: /sitecore-training-and-certification-exam/
 dsq_thread_id:
   - 2935106427
   - 2935106427
-fsb_social_facebook:
-  - 0
-  - 0
-categories:
-  - sitecore
-tags:
-  - beginners
+categories: [tutorial, digital marketing]
+tags: [beginners, sitecore]
+comments: true
 ---
 I recently took the Sitecore training and certification exam for Sitecore CEP 7 and I wanted to share my experiences with everyone else like me out there who didn&#8217;t know what to expect and only found a few sites out in the wild to help out. Hopefully, this will add to the knowledge base and the growing number of Sitecore developers out there.
 
