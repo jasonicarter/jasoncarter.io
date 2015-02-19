@@ -17,12 +17,14 @@
     {% include _navigation_side.html %}
   </div>
   <div id="index">
-    <h3>My Digital: {Self} | <a href="{{ site.url }}/products/"> Products</a> | <a href="{{ site.url }}/posts/"> Thoughts</a></h3>
+    <h3>My Digital: <a href="{{ site.url }}/"> Self</a> | {Products} | <a href="{{ site.url }}/posts/"> Thoughts</a></h3>   
     <article>
-        <h2><a href="http://linkedin.com/in/jasoniancarter" target="_blank" title="Jason Carter LinkedIn Profile">LINKEDIN <i class="fa fa-linkedin-square"></a></h2>
-        <h2><a href="http://twitter.com/jasonicarter" target="_blank" title="Jason Carter Twitter Profile">TWITTER <i class="fa fa-twitter-square"></a></h2>
-        <h2><a href="http://github.com/jasoniancarter" target="_blank" title="Jason Carter Github Account">GITHUB <i class="fa fa-github-square"></a></h2>
-        <h2><a href="#" title="Jason Carter About Me">ABOUT ME <i class="fa fa-person-square"></a></h2>
+        <h2><a href="{{ site.url }}/{{ site.groups.website-path }}">JasonCarter.io</a></h2>
+        <p>{{ page.excerpt | strip_html | truncate: 160 }}</p>
+        <h2><a href="{{ site.url }}/{{ site.groups.wordsplus-path }}">WordsPlus</a></h2>
+        <p>{{ page.excerpt | strip_html | truncate: 160 }}</p>
+        <h2><a href="{{ site.url }}/{{ site.groups.portal-path }}">Student Trip! Portal</a></h2>
+        <p>{{ page.excerpt | strip_html | truncate: 160 }}</p>
     </article>
   </div><!-- /#index -->
 </div><!-- /#main -->

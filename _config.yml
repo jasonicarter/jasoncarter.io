@@ -52,6 +52,9 @@ groups:
   tags-path: tags
   about-path: about
   more-path: more
+  wordsplus-path: products/wordsplus
+  portal-path: products/portal
+  website-path: products/website
 
 # Compilation stuff
 

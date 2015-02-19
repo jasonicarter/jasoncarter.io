@@ -17,13 +17,17 @@
     {% include _navigation_side.html %}
   </div>
   <div id="index">
-    <h3>My Digital: {Self} | <a href="{{ site.url }}/products/"> Products</a> | <a href="{{ site.url }}/posts/"> Thoughts</a></h3>
+    <h3>My Digial: <a href="{{ site.url }}/"> Self</a> | <a href="{{ site.url }}/products/"> Products</a> | {Thoughts}</h3>
+    {% for post in site.posts limit:5 %}    
     <article>
-        <h2><a href="http://linkedin.com/in/jasoniancarter" target="_blank" title="Jason Carter LinkedIn Profile">LINKEDIN <i class="fa fa-linkedin-square"></a></h2>
-        <h2><a href="http://twitter.com/jasonicarter" target="_blank" title="Jason Carter Twitter Profile">TWITTER <i class="fa fa-twitter-square"></a></h2>
-        <h2><a href="http://github.com/jasoniancarter" target="_blank" title="Jason Carter Github Account">GITHUB <i class="fa fa-github-square"></a></h2>
-        <h2><a href="#" title="Jason Carter About Me">ABOUT ME <i class="fa fa-person-square"></a></h2>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+      {% else %}
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
     </article>
+    {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
 
