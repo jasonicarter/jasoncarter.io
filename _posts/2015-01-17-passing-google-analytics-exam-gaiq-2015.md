@@ -62,69 +62,51 @@ I suggest you read and watch everything above and brush up on your weak spots. 
 
 If you studied, you&#8217;ll be able to relax throughout the exam and leisurely take screen shots of questions to post on your yet-to-be-created blog post about passing the exam (I&#8217;m still super pumped can you tell?). The type and range of questions you may get are in the gallery below and my &#8220;conclusion&#8221; is below that, so scroll all the way down. Enjoy! (click to enlarge)
 
-<div class="su-custom-gallery su-custom-gallery-title-never su-lightbox-gallery">
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.08-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.08-AM-200x200.png" alt="GAIQ 10.49.08 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.49.08 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.31-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.31-AM-200x200.png" alt="GAIQ 10.49.31 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.49.31 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.50.10-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.50.10-AM-200x200.png" alt="GAIQ 10.50.10 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.50.10 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.54.29-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.54.29-AM-200x200.png" alt="GAIQ 10.54.29 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.54.29 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.07.44-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.07.44-AM-200x200.png" alt="GAIQ 11.07.44 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.07.44 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.09.21-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.09.21-AM-200x200.png" alt="GAIQ 11.09.21 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.09.21 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.11.03-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.11.03-AM-200x200.png" alt="GAIQ 11.11.03 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.11.03 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.12.34-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.12.34-AM-200x200.png" alt="GAIQ 11.12.34 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.12.34 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.19.44-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.19.44-AM-200x200.png" alt="GAIQ 11.19.44 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.19.44 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.20.25-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.20.25-AM-200x200.png" alt="GAIQ 11.20.25 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.20.25 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.30.36-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.30.36-AM-200x200.png" alt="GAIQ 11.30.36 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.30.36 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.32.28-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.32.28-AM-200x200.png" alt="GAIQ 11.32.28 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.32.28 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.36.41-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.36.41-AM-200x200.png" alt="GAIQ 11.36.41 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.36.41 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.45.42-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.45.42-AM-200x200.png" alt="GAIQ 11.45.42 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.45.42 AM</span></a>
-  </div>
-  
-  <div class="su-custom-gallery-slide">
-    <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.52.50-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.52.50-AM-200x200.png" alt="GAIQ 11.52.50 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.52.50 AM</span></a>
-  </div>
-  
-  <div class="su-clear">
-  </div>
+<figure class="half">
+	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
+<div>
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.08-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.08-AM-200x200.png" alt="GAIQ 10.49.08 AM" width="200" height="200" /> 
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.31-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.31-AM-200x200.png" alt="GAIQ 10.49.31 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.49.31 AM</span></a>
+    </figure>
+
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.50.10-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.50.10-AM-200x200.png" alt="GAIQ 10.50.10 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.50.10 AM</span></a>
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.54.29-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.54.29-AM-200x200.png" alt="GAIQ 10.54.29 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 10.54.29 AM</span></a>
+    </figure>
+
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.07.44-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.07.44-AM-200x200.png" alt="GAIQ 11.07.44 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.07.44 AM</span></a> 
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.09.21-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.09.21-AM-200x200.png" alt="GAIQ 11.09.21 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.09.21 AM</span></a>
+    </figure>
+
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.11.03-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.11.03-AM-200x200.png" alt="GAIQ 11.11.03 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.11.03 AM</span></a>  
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.12.34-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.12.34-AM-200x200.png" alt="GAIQ 11.12.34 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.12.34 AM</span></a>
+    </figure>
+
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.19.44-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.19.44-AM-200x200.png" alt="GAIQ 11.19.44 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.19.44 AM</span></a>  
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.20.25-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.20.25-AM-200x200.png" alt="GAIQ 11.20.25 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.20.25 AM</span></a>
+    </figure>
+
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.30.36-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.30.36-AM-200x200.png" alt="GAIQ 11.30.36 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.30.36 AM</span></a> 
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.32.28-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.32.28-AM-200x200.png" alt="GAIQ 11.32.28 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.32.28 AM</span></a>
+    </figure>
+
+    <figure class="half">
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.36.41-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.36.41-AM-200x200.png" alt="GAIQ 11.36.41 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.36.41 AM</span></a>
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.45.42-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.45.42-AM-200x200.png" alt="GAIQ 11.45.42 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.45.42 AM</span></a>
+    </figure>
+
+    <figure>
+        <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.52.50-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-11.52.50-AM-200x200.png" alt="GAIQ 11.52.50 AM" width="200" height="200" /><span class="su-custom-gallery-title">GAIQ 11.52.50 AM</span></a>
+    </figure>
 </div>
 
 ## Conclusion
