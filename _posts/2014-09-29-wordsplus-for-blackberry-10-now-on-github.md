@@ -2,7 +2,7 @@
 title: WordsPlus now on Github
 layout: post
 permalink: /wordsplus-for-blackberry-10-now-on-github/
-categories: [projects]
+categories: [products]
 tags: [github, wordsplus]
 comments: true
 ---
