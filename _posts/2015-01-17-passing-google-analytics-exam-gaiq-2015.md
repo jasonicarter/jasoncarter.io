@@ -62,12 +62,6 @@ I suggest you read and watch everything above and brush up on your weak spots. 
 
 If you studied, you&#8217;ll be able to relax throughout the exam and leisurely take screen shots of questions to post on your yet-to-be-created blog post about passing the exam (I&#8217;m still super pumped can you tell?). The type and range of questions you may get are in the gallery below and my &#8220;conclusion&#8221; is below that, so scroll all the way down. Enjoy! (click to enlarge)
 
-<figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
-	<figcaption>Two images.</figcaption>
-</figure>
-
 <div>
     <figure class="half">
         <a href="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.08-AM.png"><img src="http://jasoncarter.io/wordpress/wp-content/uploads/2015/01/GAIQ-10.49.08-AM-200x200.png" alt="GAIQ 10.49.08 AM" width="200" height="200" /> 

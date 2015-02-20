@@ -17,7 +17,7 @@
     {% include _navigation_side.html %}
   </div>
   <div id="index">
-    <h3>My Digial: <a href="{{ site.url }}/"> Self</a> | <a href="{{ site.url }}/products/"> Products</a> | {Thoughts}</h3>
+    <h3>My Digital: <a href="{{ site.url }}/"> Self</a> | <a href="{{ site.url }}/products/"> Products</a> | {Thoughts}</h3>
     {% for post in site.posts limit:5 %}    
     <article>
       {% if post.link %}
@@ -28,6 +28,7 @@
       {% endif %}
     </article>
     {% endfor %}
+        <h4><a href="{{ site.url }}/posts"> View All Posts... </a></h4>
   </div><!-- /#index -->
 </div><!-- /#main -->
 
