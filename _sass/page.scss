@@ -9,6 +9,25 @@ body {
 }
 
 /* 
+   Home
+   ========================================================================== */
+h2.linkedin,
+h2.twitter,
+h2.github,
+h2.testimony,
+h2.aboutme
+{
+  a{
+    font-size: 2em;
+  }
+}
+
+.linkedin a {color: $linkedin-color;}
+.twitter a {color: $twitter-color;}
+.github a {color: $github-color;}
+
+
+/* 
    Header
    ========================================================================== */
 
