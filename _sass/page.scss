@@ -8,14 +8,22 @@ body {
 	color: $text-color;
 }
 
+.page, .post {
+  article p>a,
+  article li>a 
+  {
+    color: #dd3333;
+  }
+  
+  .social-share a {color: $bodycolor;} 
+}
+
 /* 
    Home
    ========================================================================== */
 h2.linkedin,
 h2.twitter,
 h2.github,
-h2.testimony,
-h2.aboutme
 {
   a{
     font-size: 2em;
@@ -25,9 +33,37 @@ h2.aboutme
 .linkedin a {color: $linkedin-color;}
 .twitter a {color: $twitter-color;}
 .github a {color: $github-color;}
-
+.testimony {color: lighten($linkcolor,20);}
+.aboutme {color: lighten($linkcolor,20)}
 
 .home article h2 a {font-size: 2em;}
+
+/* 
+   Home - accordion dropdown
+   ========================================================================== */
+
+#index h2.testimony, #index h2.aboutme {
+  font-size: 2em;
+  margin-top: 16px;
+}
+
+.accordion_container {
+    //width:100%;
+    /*border:1px solid #d3d3d3;*/
+}
+.accordion_container div {
+    //width:100%;
+}
+.accordion_container .accordion_header {
+    /*background-color:#d3d3d3;*/
+    padding: 2px;
+    cursor: pointer;
+}
+.accordion_container .accordion_content {
+    display: none;
+    padding : 5px;
+}
+
 
 /* 
    Header

@@ -14,7 +14,6 @@
 <div id="main" role="main"> 
   <div class="article-author-side">
     {% include _author-bio.html %}
-    {% include _navigation_side.html %}
   </div>
   <div id="index">
     <h3>My Digital: {Self} | <a href="{{ site.url }}/products/"> Products</a> | <a href="{{ site.url }}/blog/"> Thoughts</a></h3>
@@ -22,8 +21,34 @@
       <h2 class="linkedin"><a href="http://linkedin.com/in/jasoniancarter" target="_blank" title="Jason Carter LinkedIn Profile">LINKEDIN <i class="fa fa-linkedin-square"></i></a></h2>
       <h2 class="twitter"><a href="http://twitter.com/jasonicarter" target="_blank" title="Jason Carter Twitter Profile">TWITTER <i class="fa fa-twitter-square"></i></a></h2>
       <h2 class="github"><a href="http://github.com/jasonicarter" target="_blank" title="Jason Carter Github Account">GITHUB <i class="fa fa-github-square"></i></a></h2>
-      <h2 class="testimony"><a href="#" title="Jason Carter Testimonies">WHAT PEOPLE SAY <i class="fa fa-weixin"></i></a></h2>
-      <h2 class="aboutme"><a href="#" title="Jason Carter About Me">ABOUT ME <i class="fa fa-user"></i></a></h2>
+      
+      <div class="accordion_container">
+        <div class="accordion_header"><h2 class="testimony">WHAT PEOPLE SAY <i class="fa fa-weixin"></i></h2></div>
+        <div class="accordion_content">
+          <strong>Or you could do an include _testimony here</strong>
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+
+          <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+          <p>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+
+          <p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,</p>
+        </div>
+      </div>
+    
+      <div class="accordion_container">
+        <div class="accordion_header"><h2 class="aboutme">ABOUT ME <i class="fa fa-user"></i></h2></div>
+        <div class="accordion_content">
+          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+
+          <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+          <p>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+
+          <p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a,</p>
+        </div>
+      </div>
+      
     </article>
   </div><!-- /#index -->
 </div><!-- /#main -->
