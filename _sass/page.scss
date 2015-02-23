@@ -18,6 +18,11 @@ body {
   .social-share a {color: $bodycolor;} 
 }
 
+//override underline
+.article-wrap p>a, .article-wrap li>a {
+  text-decoration: none !important;
+}
+
 /* 
    Home
    ========================================================================== */
@@ -37,6 +42,10 @@ h2.github,
 .aboutme {color: lighten($linkcolor,20)}
 
 .home article h2 a {font-size: 2em;}
+
+.home article .accordion_content {
+  p>a, li>a {color: #dd3333;}
+}
 
 /* 
    Home - accordion dropdown
