@@ -2,9 +2,6 @@
 title: Sitecore Training and Certification Exam
 layout: post
 permalink: /sitecore-training-and-certification-exam/
-dsq_thread_id:
-  - 2935106427
-  - 2935106427
 categories: [tutorial, digital marketing]
 tags: [beginners, sitecore]
 comments: true

@@ -2,9 +2,6 @@
 title: 5 Easy Steps to Starting a WordPress Blog
 layout: post
 permalink: /5-steps-to-starting-a-wordpress-blog/
-dsq_thread_id:
-  - 2933317625
-  - 2933317625
 categories: [tutorial]
 tags: [beginners, blog, wordpress]
 comments: true

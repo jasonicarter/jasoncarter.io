@@ -3,9 +3,6 @@ title: Top 5 WordPress Plugins for Beginners
 author: Jason
 layout: post
 permalink: /top-5-wordpress-plugins-for-beginners/
-dsq_thread_id:
-  - 2939133492
-  - 2939133492
 categories: [tutorial]
 tags: [beginners, plugin, wordpress]
 ---

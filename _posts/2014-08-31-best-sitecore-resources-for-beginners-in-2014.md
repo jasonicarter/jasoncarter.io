@@ -2,9 +2,6 @@
 title: Best Sitecore Resources for Beginners in 2014
 layout: post
 permalink: /best-sitecore-resources-for-beginners-in-2014/
-dsq_thread_id:
-  - 2975566694
-  - 2975566694
 categories: [digital marketing]
 tags: [beginners, sitecore]
 comments: true

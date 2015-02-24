@@ -2,9 +2,6 @@
 title: 'Customizing Sitecore&#8217;s Page Editor Ribbon'
 layout: post
 permalink: /customizing-sitecores-page-editor-ribbon/
-dsq_thread_id:
-  - 2965350348
-  - 2965350348
 categories: [digital marketing]
 tags: [beginners, page editor, sitecore]
 comments: true

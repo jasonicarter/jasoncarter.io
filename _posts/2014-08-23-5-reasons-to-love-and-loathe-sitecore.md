@@ -3,9 +3,6 @@ title: 5 Reasons to love and loathe Sitecore
 author: Jason
 layout: post
 permalink: /5-reasons-to-love-and-loathe-sitecore/
-dsq_thread_id:
-  - 2952443812
-  - 2952443812
 categories: [digital marketing]
 tags: [sitecore]
 ---

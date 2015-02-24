@@ -2,9 +2,6 @@
 title: Lonely Not Being in Vegas This Sitecore Symposium Week?
 layout: post
 permalink: /sitecore-symposium-2014/
-dsq_thread_id:
-  - 3006926696
-  - 3006926696
 categories: [digital marketing]
 tags: [sitecore, symposium]
 comments: true

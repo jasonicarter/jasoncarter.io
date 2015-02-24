@@ -3,9 +3,6 @@ title: Switching databases on Sitecore Desktop
 author: Jason
 layout: post
 permalink: /switching-databases-on-sitecore-desktop/
-dsq_thread_id:
-  - 2942009499
-  - 2942009499
 categories: [digital marketing]
 tags: [beginners, sitecore]
 ---
