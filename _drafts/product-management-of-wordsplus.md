@@ -6,13 +6,7 @@ tags: [wordsplus, blackberry, product design]
 comments: true
 ---
 
-SHOULD THIS BE A POST?
-On the product page I do a drop down with some summary text, a link to the blog post and a carousel of images
-Do this for each of them. The below reads more like a blog post and probably better for seo and sharing
-
-IMG HERE: I'm thinking landscape of logo or something
-
-**NOTE:** This is a repost from my LinkedIn article (link)
+IMG HERE: I'm thinking landscape of logo or carousel with lightbox or something
 
 I've always thought the ideal version of a software Product Manager was awesome. A combination of market research, making shit up, talking to developers, end users, internal stakeholder and then deciding on what the product will do but more importantly, deciding what it wont do. That mixture of technical smarts and business savvy is just a cool way to spend 8+ hrs of your day. 
 
@@ -46,16 +40,18 @@ As for figuring out my own personal design, I truly hated the flashy, lots of mo
 ## Design
 The look and feel of WordsPlus changed somewhat drastically across it's lifetime, as you can see below. This is mostly due to two things, features and personal taste. 
 
-Features: With new features and functionality being added, the design required some restructuring. For example, when I introduced the "Word of The Day" feature I need to shift around items on the home page. And when the Q10 was released (with square dimensions) I wanted the app to be *visually consistent* so I updated the layout for both platforms.
+**Features:** With new features and functionality being added, the design required some restructuring. For example, when I introduced the "Word of The Day" feature I need to shift around items on the home page. And when the Q10 was released (with square dimensions) I wanted the app to be *visually consistent* so I updated the layout for both platforms.
 
-Personal Taste: My original design was black with blue titles which I thought at the time was so sweet, needed some touchups but for a beta (more like an alpha), it was great. Remember, this was also devs only since WordsPlus was a Z10 launch title. However, as time went on I wanted a "cleaner" and more colorful look. But even with my inital switch you can see I had a few more tweaks, not just to the color but layout and logo designs as well. I even created some addition themes as in-app purchases.
+**Personal Taste:** My original design was black with blue titles which I thought at the time was so sweet, needed some touchups but for a beta (more like an alpha), it was great. Remember, this was also devs only since WordsPlus was a Z10 launch title. However, as time went on I wanted a "cleaner" and more colorful look. But even with my inital switch you can see I had a few more tweaks, not just to the color but layout and logo designs as well. I even created some addition themes as in-app purchases.
 
 ## Test + Launch
+For testing I really didn't do that much, or as much as I probably should have but I went with the "minimal viable product", "move fast and break things" and "fail fast, fail often" mantra. I wanted the first-mover advantage, remember this was for Blackberry's new platform and WordsPlus was planned as a launch title. So I pushed out my MVP and just iterated over it with improvements and bug fixing, which mostly happened in alpha/beta with only devs prior to the launch. After launch this process continued.
 
-Talk about in-app purchases and ads
-- 99 cents to upgrade
-- didn't want / feel right to sell word categories
-- probably gave away too much for free
+Going into launch I had a much more refined version of the app. One thing I sorely lacked was marketing, which honestly, I thought Blackberry was going to go all-in for their developers, they didn't. 
+
+Within the first few months I had setup in-app ads and purchases. There are tons of articles on paid vs free vs freemium, so I wont go into it here but basically I started off with paid, then went to a freemium model and later removed the ads because they just weren't working and I felt it ruined the UI/UX without any good monetary return.
+
+In the iPhone app store, I've read your launch makes or breaks the app. My experience with Blackberry was the complete opposite as I added more value aka features/bug fixes/etc the more great reviews and downloads came in. 
 
 ## Analyze
 
@@ -73,7 +69,7 @@ Let me give you some *interesting* stats:
 - other random thing
 
 ## Rinse + Repeat
-
+Iterative. Agile. Monitor and Maintain. Whatever you want to call it, this is what I did next utilizing my roadmap, user feedback and analytics. This is probably also one of the most fun and agonizing parts of the product management process. You get to see how people actually use your app, if they like it, what they don't like about it and how to improve. I won't go into details but this is where most of my ideas for features and enchancements came from - staring at the numbers.
 
 ## Put it to Bed
 
