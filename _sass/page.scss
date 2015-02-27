@@ -38,8 +38,10 @@ h2.github,
 .linkedin a {color: $linkedin-color;}
 .twitter a {color: $twitter-color;}
 .github a {color: $github-color;}
-.testimony {color: lighten($linkcolor,20);}
-.aboutme {color: lighten($linkcolor,20)}
+//.testimony {color: lighten($linkcolor,20);}
+//.aboutme {color: lighten($linkcolor,20)}
+.testimony {color: $linkcolor;}
+.aboutme {color: $linkcolor;}
 
 .home article h2 a {font-size: 2em;}
 
@@ -52,7 +54,7 @@ h2.github,
    ========================================================================== */
 
 #index h2.testimony, #index h2.aboutme {
-  font-size: 2em;
+  font-size: 2.4em;
   margin-top: 16px;
 }
 

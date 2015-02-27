@@ -18,12 +18,28 @@
   <div id="index">
     <h3>My Digital: <a href="{{ site.url }}/"> Self</a> | {Products} | <a href="{{ site.url }}/blog/"> Thoughts</a></h3>   
     <article>
-        <h2><a href="{{ site.url }}/{{ site.groups.website-path }}">JasonCarter.io</a></h2>
-        <p>My personal website and blog. Built with Jekyll and a heavily modified version of the theme Minimal Mistakes</p>
-        <h2><a href="{{ site.url }}/{{ site.groups.wordsplus-path }}">WordsPlus</a></h2>
-        <p>A BlackBerry 10 word search game. Voted finalist in the 2013 BlackBerry Developer Community Awards, WordsPlus achieved over 10k downloads and more than 100 reviews with an average rating of 4.5 out of 5.</p>
-        <h2><a href="{{ site.url }}/{{ site.groups.portal-path }}">Student Trip! Portal</a></h2>
-        <p>Student travel portal to provide travel content and iternary information, along with social engagement features. Initial draft material of a student travel user portal.</p>
+      
+        <div class="accordion_container">
+          <div class="accordion_header"><h2 class="testimony">JASONCARTER.IO</h2></div>
+          <div class="accordion_content">
+            {% include _product_website.html %}
+          </div>
+        </div>
+      
+        <div class="accordion_container">
+          <div class="accordion_header"><h2 class="testimony">WORDSPLUS</h2></div>
+          <div class="accordion_content">
+            {% include _product_wordsplus.html %}
+          </div>
+        </div>
+      
+        <div class="accordion_container">
+          <div class="accordion_header"><h2 class="testimony">STUDENT TRIP! PORTAL</h2></div>
+          <div class="accordion_content">
+            {% include _product_portal.html %}
+          </div>
+        </div>
+        
     </article>
   </div><!-- /#index -->
 </div><!-- /#main -->
