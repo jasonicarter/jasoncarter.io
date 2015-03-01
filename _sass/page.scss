@@ -23,6 +23,13 @@ body {
   text-decoration: none !important;
 }
 
+.third, .half {
+  img {
+    border: 1px solid rgba(2, 26, 64, 0);
+    width: 33% !important;
+  }
+}
+
 /* 
    Home
    ========================================================================== */
