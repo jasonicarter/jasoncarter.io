@@ -1,4 +1,10 @@
 language: ruby
+
 rvm:
 - 2.1
-script: jekyll build
+
+install:
+  # Install Jekyll and dependencies
+  - bundle install
+
+script: bundle exec jekyll build
