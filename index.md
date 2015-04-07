@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "A personal website and blog on Sitecore, digital marketing and web analytics"
+excerpt: "My digital home for Product Management, Marketing and Analytics"
 tags: [Jekyll, Sitecore, digital marketing, blog, analytics]
 ---
